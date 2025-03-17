@@ -9,7 +9,7 @@ kv_namespaces = [
 
 [env.dev]
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "91e94fe4c85d4e21a7f9898d97587e0e" },
+    { binding = "wechat", id = "19d86f117c3a478091c2a7c1c3756cdd" },
 ]
 
 [env.dev.triggers]
